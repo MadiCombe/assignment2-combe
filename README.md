@@ -56,4 +56,21 @@
 <h1>Quotes</h1>
 <blockquote cite="https://www.brainyquote.com/quotes/trixie_mattel_941486">I'm an optimistic realist. I kind of expect the worst but prepare for the best. <br> <i>Trixie Mattel</i></blockquote>
 <blockquote cite="https://www.brainyquote.com/quotes/tom_holland_836230">If I can bring happiness to people all around the world, then I will try my best to do so. <br> <i>Tom Holland</i></blockquote>
+<hr>
+<h1>Code Fencing</h1>
+<block quote="https://brilliant.org/wiki/fenwick-tree/">A Fenwick tree or binary indexed tree is a data structure that helps compute prefix sums efficiently. Computing prefix sums are often important in various other algorithms, not to mention several competitive programming problems. For example, they are used to implement the arithmetic coding algorithm. Fenwick trees were invented by Peter M. Fenwick in 1994.<br>According to <a href="https://brilliant.org/wiki/fenwick-tree/">Brilliant.org</a></blockquote>
+<pre><code>
+def sum(int r):
+    res = 0
+    while (r >= 0):
+        res += t[r]
+        r = g(r) - 1
+    return res
+
+def increase(int i, int delta):
+    for all j with g(j) <= i <= j:
+        t[j] += delta
+</code></pre>
+<a href="https://cp-algorithms.com/data_structures/fenwick.html">cp-algorithms.com</a>
+
 </html>
