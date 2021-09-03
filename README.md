@@ -52,4 +52,8 @@
     <td>$23</td>
 </tr>
 </table>
+<hr>
+<h1>Quotes</h1>
+<blockquote cite="https://www.brainyquote.com/quotes/trixie_mattel_941486">I'm an optimistic realist. I kind of expect the worst but prepare for the best. <br> <i>Trixie Mattel</i></blockquote>
+<blockquote cite="https://www.brainyquote.com/quotes/tom_holland_836230">If I can bring happiness to people all around the world, then I will try my best to do so. <br> <i>Tom Holland</i></blockquote>
 </html>
