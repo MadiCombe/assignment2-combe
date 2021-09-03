@@ -21,5 +21,13 @@
     <li>Welcome to Maryville</li>
     </ol>
 </ol>
+<h1>Some Things You'll Need</h1>
+<ul>
+    <li>Blanket</li>
+    <li>Comfy clothes</li>
+    <li>A snack</li>
+    <li>Fluffy socks</li>
+    <li>1 or 2 Squishmallows</li>
+</ul>
 
 </html>
