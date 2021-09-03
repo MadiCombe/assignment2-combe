@@ -28,5 +28,28 @@
     <li>Fluffy socks</li>
     <li>1 or 2 Squishmallows</li>
 </ul>
-
+<hr>
+<h1>Table</h1>
+<table>
+<tr>
+    <th>Food / Drink</th>
+    <th>Where to get it</th>
+    <th>Cost</th>
+</tr>
+<tr>
+    <td>Thai Boba Tea</td>
+    <td>Simply Siam / BGC</td>
+    <td>$6</td>
+</tr>
+<tr>
+    <td>Waffle House Waffles</td>
+    <td>Waffle House</td>
+    <td>$3</td>
+</tr>
+<tr>
+    <td>Filet Mignon</td>
+    <td>Outback Steakhouse</td>
+    <td>$23</td>
+</tr>
+</table>
 </html>
