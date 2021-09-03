@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Assignment 2</title>
-</head>
+
 <body>
 <h1>Madi Combe</h1>
 <h3>My House</h3>
